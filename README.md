@@ -44,7 +44,6 @@ The built-in analysis engine automatically parses racing lines and input timing,
 2. Launch iRacing and enter any session
 3. Double-click `TrackLogic.exe`
 4. On first run, follow the iRacing OAuth login flow
-5. Press `F8` to cycle overlay modes: Preview → Edit → Game → Hide
 
 ## System Requirements
 
@@ -64,14 +63,15 @@ The built-in analysis engine automatically parses racing lines and input timing,
 If TrackLogic helps you on track, buy me a coffee!
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Alipay-1677FF?style=for-the-badge&logo=alipay&logoColor=white" alt="Alipay">
+  <table>
+    <tr>
+      <td align="center"><img src="wechat-qr.png" alt="WeChat" width="160"><br><sub>WeChat</sub></td>
+      <td align="center"><img src="alipay-qr.png" alt="Alipay" width="160"><br><sub>Alipay</sub></td>
+    </tr>
+  </table>
 </p>
 
-<p align="center">
-  <sub>Scan to sponsor</sub>
-</p>
+Also available on [Buy Me a Coffee](https://buymeacoffee.com/apexracing) and [爱发电](https://afdian.com/a/apexracing).
 
 
 ## Disclaimer

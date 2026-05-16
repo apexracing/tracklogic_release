@@ -44,7 +44,6 @@ TrackLogic 是一款免费的 iRacing 第三方遥测插件，通过 iRacing 官
 2. 启动 iRacing 并进入任意赛道
 3. 双击运行 `TrackLogic.exe`
 4. 首次使用将引导完成 iRacing OAuth 授权
-5. 按 `F8` 循环切换面板模式：预览 → 编辑 → 游戏 → 隐藏
 
 ## 系统要求
 
@@ -64,14 +63,15 @@ TrackLogic 是一款免费的 iRacing 第三方遥测插件，通过 iRacing 官
 如果 TrackLogic 帮到了你，请我喝杯咖啡吧！
 
 <p align="center">
-  <img src="https://img.shields.io/badge/微信-WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="微信">
-  &nbsp;
-  <img src="https://img.shields.io/badge/支付宝-Alipay-1677FF?style=for-the-badge&logo=alipay&logoColor=white" alt="支付宝">
+  <table>
+    <tr>
+      <td align="center"><img src="wechat-qr.png" alt="微信" width="160"><br><sub>微信 WeChat</sub></td>
+      <td align="center"><img src="alipay-qr.png" alt="支付宝" width="160"><br><sub>支付宝 Alipay</sub></td>
+    </tr>
+  </table>
 </p>
 
-<p align="center">
-  <sub>扫码赞助</sub>
-</p>
+也可以通过 [爱发电](https://afdian.com/a/apexracing) 赞助。
 
 
 ## 免责声明
