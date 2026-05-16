@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://tracklogic.apexracing.cn">官方网站</a> &middot;
-  <a href="#快速开始">下载使用</a> &middot;
+  <a href="#快速开始">下载最新版本</a> &middot;
   <a href="#-赞助">☕ 请我喝杯咖啡</a>
 </p>
 
