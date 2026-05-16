@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="README_zh.md">中文</a> | <b>English</b>
+  <b>中文</b> | <a href="README_en.md">English</a>
 </p>
 
 <p align="center">
@@ -7,70 +7,71 @@
 </p>
 
 <p align="center">
-  <strong>Drive &middot; Analyze &middot; Improve &middot; Repeat</strong>
+  <strong>驾驶 &middot; 分析 &middot; 提升 &middot; 重复</strong>
 </p>
 
 <p align="center">
-  <a href="#quick-start">Quick Start</a> &middot;
-  <a href="#features">Features</a> &middot;
-  <a href="#-sponsor">☕ Sponsor</a>
+  <a href="#快速开始">下载使用</a> &middot;
+  <a href="#功能">功能</a> &middot;
+  <a href="#-赞助">☕ 请我喝杯咖啡</a>
 </p>
 
 ---
 
-## Overview
+## 简介
 
-TrackLogic is a free third-party telemetry plugin for iRacing. It reads real-time telemetry via iRacing's official shared memory interface and provides five real-time overlay panels to help you make better decisions during races and conduct data-driven post-race analysis.
+TrackLogic 是一款免费的 iRacing 第三方遥测插件，通过 iRacing 官方共享数据接口读取实时遥测数据，提供五大实时叠加面板，帮助你在比赛中做出更好的决策，赛后进行数据驱动的复盘。
 
-## Features
+## 功能
 
-### Overlays
+### 实时面板（Overlay）
 
-| Panel | Description |
-|-------|-------------|
-| **Standings** | Position, lap times, GAP/INT/DELTA, iRating estimates. Grouped by class with smart viewport clipping. |
-| **Track Map** | Top-down real-time positions of all cars, colored by class, top 3 highlighted. Pit & tow status visible. |
-| **Input Telemetry** | Throttle, brake, clutch inputs visualized. Gear, steering angle, and ABS activation in real time. |
-| **Blind Spot** | Tracks cars in left/right blind spots via iRacing lateral signals. Visualizes side-by-side distance. |
-| **Smart Spotter** | Built-in braking point & shift prompts driven by live telemetry, with adjustable volume. |
+| 面板 | 说明 |
+|------|------|
+| **实时排行榜** | 排名、圈速、GAP/INT/DELTA、iRating 变化估算。支持按组别分组与视口智能裁剪。 |
+| **赛道动态地图** | 俯瞰视角呈现全部车辆实时位置，按组别着色、前三名高亮标记，进站与拖车状态即时可见。 |
+| **踏板与方向盘** | 油门、刹车、离合开度实时可视化，挡位与方向盘转角同步呈现，ABS 激活状态即时提醒。 |
+| **盲区监测** | 基于 iRacing 侧向信号实时追踪左右盲区内车辆，可视化并排距离与位置。 |
+| **智能驾驶提醒** | 内置刹车点提醒与换挡提示，基于遥测数据实时驱动，音量可调。 |
 
-### Smart Analysis
+### 智能分析引擎
 
-The built-in analysis engine automatically parses racing lines and input timing, generating clear summaries that instantly flag braking hesitation and line deviations. No need to read complex charts.
+内置算法引擎自动解析轨迹与操作时序，生成直观总结，瞬间定位制动迟疑与走线偏差。无需读懂图表，也能看透数据。
 
-## Quick Start
+## 快速开始
 
-1. Download [TrackLogic.exe](TrackLogic.exe)
-2. Launch iRacing and enter any session
-3. Double-click `TrackLogic.exe`
-4. On first run, follow the iRacing OAuth login flow
+1. 下载 [TrackLogic.exe](TrackLogic.exe)
+2. 启动 iRacing 并进入任意赛道
+3. 双击运行 `TrackLogic.exe`
+4. 首次使用将引导完成 iRacing OAuth 授权
 
-## System Requirements
+## 系统要求
 
-- **OS**: Windows 10 / 11 (64-bit)
-- **Sim**: iRacing (installed and running)
-- **Network**: Internet required for initial iRacing OAuth authentication
+- **操作系统**：Windows 10 / 11（64 位）
+- **模拟器**：iRacing（已安装并运行）
+- **网络**：首次使用需联网完成 iRacing OAuth 绑定
 
-## Technical Notes
+## 技术说明
 
-- Reads data via iRacing's official shared memory interface (`CreateFileMapping`) — read-only
-- Does **not** modify, inject, or interfere with any iRacing process or game file
-- All data is processed locally for display and analysis only
+- 通过 iRacing 官方共享内存接口（`CreateFileMapping`）**只读**获取数据
+- **不修改、不注入、不干预** iRacing 进程或任何游戏文件
+- 所有数据仅用于本地显示与分析
 
 
-## ☕ Sponsor
+## ☕ 赞助
 
-If TrackLogic helps you on track, buy me a coffee!
+如果 TrackLogic 帮到了你，请我喝杯咖啡吧！
 
 <p align="center">
-  <a href="https://buymeacoffee.com/apexracing" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee">
+  <a href="https://afdian.com/a/apexracing" target="_blank">
+    <img src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="爱发电" width="200">
   </a>
 </p>
 
-## Disclaimer
 
-This software is provided for iRacing players' data review and knowledge sharing only. The developer assumes no liability for any race outcome resulting from its use.
+## 免责声明
+
+本软件仅供 iRacing 玩家的数据复盘与技术分享使用。使用本软件产生的任何比赛影响，开发者不承担任何责任。
 
 ---
 
