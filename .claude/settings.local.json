@@ -2,7 +2,11 @@
   "permissions": {
     "allow": [
       "WebFetch(domain:afdian.com)",
-      "WebSearch"
+      "WebSearch",
+      "Bash(cp \"E:/GolandProjects/tracklogic/tracklogic_server/internal/router/web/standings.png\" \"E:/GolandProjects/tracklogic_release/\")",
+      "Bash(cp \"E:/GolandProjects/tracklogic/tracklogic_server/internal/router/web/trackmap.png\" \"E:/GolandProjects/tracklogic_release/\")",
+      "Bash(cp \"E:/GolandProjects/tracklogic/tracklogic_server/internal/router/web/input.png\" \"E:/GolandProjects/tracklogic_release/\")",
+      "Bash(cp \"E:/GolandProjects/tracklogic/tracklogic_server/internal/router/web/blindspot.png\" \"E:/GolandProjects/tracklogic_release/\")"
     ]
   }
 }

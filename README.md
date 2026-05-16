@@ -11,32 +11,36 @@
 </p>
 
 <p align="center">
+  <a href="https://tracklogic.apexracing.cn">官方网站</a> &middot;
   <a href="#快速开始">下载使用</a> &middot;
-  <a href="#功能">功能</a> &middot;
   <a href="#-赞助">☕ 请我喝杯咖啡</a>
 </p>
 
 ---
 
-## 简介
+TrackLogic 是一款免费的 iRacing 第三方遥测插件，提供实时叠加面板，帮助你在比赛中做出更好的决策，赛后进行数据驱动的复盘。
 
-TrackLogic 是一款免费的 iRacing 第三方遥测插件，通过 iRacing 官方共享数据接口读取实时遥测数据，提供五大实时叠加面板，帮助你在比赛中做出更好的决策，赛后进行数据驱动的复盘。
+<p align="center">
+  <img src="standings.png" alt="实时排行榜" width="400">
+  <br><sub>实时排行榜</sub>
+</p>
 
-## 功能
+<p align="center">
+  <img src="trackmap.png" alt="赛道动态地图" width="400">
+  <br><sub>赛道动态地图</sub>
+</p>
 
-### 实时面板（Overlay）
+<p align="center">
+  <img src="input.png" alt="踏板与方向盘" width="400">
+  <br><sub>踏板与方向盘</sub>
+</p>
 
-| 面板 | 说明 |
-|------|------|
-| **实时排行榜** | 排名、圈速、GAP/INT/DELTA、iRating 变化估算。支持按组别分组与视口智能裁剪。 |
-| **赛道动态地图** | 俯瞰视角呈现全部车辆实时位置，按组别着色、前三名高亮标记，进站与拖车状态即时可见。 |
-| **踏板与方向盘** | 油门、刹车、离合开度实时可视化，挡位与方向盘转角同步呈现，ABS 激活状态即时提醒。 |
-| **盲区监测** | 基于 iRacing 侧向信号实时追踪左右盲区内车辆，可视化并排距离与位置。 |
-| **智能驾驶提醒** | 内置刹车点提醒与换挡提示，基于遥测数据实时驱动，音量可调。 |
+<p align="center">
+  <img src="blindspot.png" alt="盲区监测" width="400">
+  <br><sub>盲区监测</sub>
+</p>
 
-### 智能分析引擎
-
-内置算法引擎自动解析轨迹与操作时序，生成直观总结，瞬间定位制动迟疑与走线偏差。无需读懂图表，也能看透数据。
+内置算法引擎自动解析轨迹与操作时序，生成直观总结，瞬间定位制动迟疑与走线偏差。
 
 ## 快速开始
 
@@ -50,12 +54,6 @@ TrackLogic 是一款免费的 iRacing 第三方遥测插件，通过 iRacing 官
 - **操作系统**：Windows 10 / 11（64 位）
 - **模拟器**：iRacing（已安装并运行）
 - **网络**：首次使用需联网完成 iRacing OAuth 绑定
-
-## 技术说明
-
-- 通过 iRacing 官方共享内存接口（`CreateFileMapping`）**只读**获取数据
-- **不修改、不注入、不干预** iRacing 进程或任何游戏文件
-- 所有数据仅用于本地显示与分析
 
 
 ## ☕ 赞助

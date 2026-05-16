@@ -12,31 +12,34 @@
 
 <p align="center">
   <a href="#quick-start">Quick Start</a> &middot;
-  <a href="#features">Features</a> &middot;
   <a href="#-sponsor">☕ Sponsor</a>
 </p>
 
 ---
 
-## Overview
+TrackLogic is a free third-party telemetry plugin for iRacing. It provides real-time overlays to help you make better decisions during races and conduct data-driven post-race analysis.
 
-TrackLogic is a free third-party telemetry plugin for iRacing. It reads real-time telemetry via iRacing's official shared memory interface and provides five real-time overlay panels to help you make better decisions during races and conduct data-driven post-race analysis.
+<p align="center">
+  <img src="standings.png" alt="Standings" width="400">
+  <br><sub>Standings</sub>
+</p>
 
-## Features
+<p align="center">
+  <img src="trackmap.png" alt="Track Map" width="400">
+  <br><sub>Track Map</sub>
+</p>
 
-### Overlays
+<p align="center">
+  <img src="input.png" alt="Input Telemetry" width="400">
+  <br><sub>Input Telemetry</sub>
+</p>
 
-| Panel | Description |
-|-------|-------------|
-| **Standings** | Position, lap times, GAP/INT/DELTA, iRating estimates. Grouped by class with smart viewport clipping. |
-| **Track Map** | Top-down real-time positions of all cars, colored by class, top 3 highlighted. Pit & tow status visible. |
-| **Input Telemetry** | Throttle, brake, clutch inputs visualized. Gear, steering angle, and ABS activation in real time. |
-| **Blind Spot** | Tracks cars in left/right blind spots via iRacing lateral signals. Visualizes side-by-side distance. |
-| **Smart Spotter** | Built-in braking point & shift prompts driven by live telemetry, with adjustable volume. |
+<p align="center">
+  <img src="blindspot.png" alt="Blind Spot" width="400">
+  <br><sub>Blind Spot</sub>
+</p>
 
-### Smart Analysis
-
-The built-in analysis engine automatically parses racing lines and input timing, generating clear summaries that instantly flag braking hesitation and line deviations. No need to read complex charts.
+The built-in analysis engine automatically parses racing lines and input timing, generating clear summaries that instantly flag braking hesitation and line deviations.
 
 ## Quick Start
 
@@ -50,12 +53,6 @@ The built-in analysis engine automatically parses racing lines and input timing,
 - **OS**: Windows 10 / 11 (64-bit)
 - **Sim**: iRacing (installed and running)
 - **Network**: Internet required for initial iRacing OAuth authentication
-
-## Technical Notes
-
-- Reads data via iRacing's official shared memory interface (`CreateFileMapping`) — read-only
-- Does **not** modify, inject, or interfere with any iRacing process or game file
-- All data is processed locally for display and analysis only
 
 
 ## ☕ Sponsor
