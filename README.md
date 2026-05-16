@@ -40,7 +40,7 @@ The built-in analysis engine automatically parses racing lines and input timing,
 
 ## Quick Start
 
-1. Download `TrackLogic.exe` from this repository
+1. Download [TrackLogic.exe](TrackLogic.exe)
 2. Launch iRacing and enter any session
 3. Double-click `TrackLogic.exe`
 4. On first run, follow the iRacing OAuth login flow
@@ -73,9 +73,6 @@ If TrackLogic helps you on track, buy me a coffee!
   <sub>Scan to sponsor</sub>
 </p>
 
-## License
-
-[MIT](LICENSE)
 
 ## Disclaimer
 

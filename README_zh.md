@@ -40,7 +40,7 @@ TrackLogic 是一款免费的 iRacing 第三方遥测插件，通过 iRacing 官
 
 ## 快速开始
 
-1. 从本仓库下载 `TrackLogic.exe`
+1. 下载 [TrackLogic.exe](TrackLogic.exe)
 2. 启动 iRacing 并进入任意赛道
 3. 双击运行 `TrackLogic.exe`
 4. 首次使用将引导完成 iRacing OAuth 授权
@@ -73,9 +73,6 @@ TrackLogic 是一款免费的 iRacing 第三方遥测插件，通过 iRacing 官
   <sub>扫码赞助</sub>
 </p>
 
-## 开源协议
-
-[MIT](LICENSE)
 
 ## 免责声明
 
