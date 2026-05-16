@@ -63,16 +63,10 @@ The built-in analysis engine automatically parses racing lines and input timing,
 If TrackLogic helps you on track, buy me a coffee!
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="wechat-qr.png" alt="WeChat" width="160"><br><sub>WeChat</sub></td>
-      <td align="center"><img src="alipay-qr.png" alt="Alipay" width="160"><br><sub>Alipay</sub></td>
-    </tr>
-  </table>
+  <a href="https://buymeacoffee.com/apexracing" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee">
+  </a>
 </p>
-
-Also available on [Buy Me a Coffee](https://buymeacoffee.com/apexracing) and [爱发电](https://afdian.com/a/apexracing).
-
 
 ## Disclaimer
 

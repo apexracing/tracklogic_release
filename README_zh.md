@@ -63,15 +63,10 @@ TrackLogic 是一款免费的 iRacing 第三方遥测插件，通过 iRacing 官
 如果 TrackLogic 帮到了你，请我喝杯咖啡吧！
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="wechat-qr.png" alt="微信" width="160"><br><sub>微信 WeChat</sub></td>
-      <td align="center"><img src="alipay-qr.png" alt="支付宝" width="160"><br><sub>支付宝 Alipay</sub></td>
-    </tr>
-  </table>
+  <a href="https://afdian.com/a/apexracing" target="_blank">
+    <img src="https://img.shields.io/badge/爱发电-AF2E67?style=for-the-badge&logo=heart&logoColor=white" alt="爱发电">
+  </a>
 </p>
-
-也可以通过 [爱发电](https://afdian.com/a/apexracing) 赞助。
 
 
 ## 免责声明
