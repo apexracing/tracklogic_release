@@ -58,9 +58,6 @@ The built-in analysis engine automatically parses racing lines and input timing,
 - Does **not** modify, inject, or interfere with any iRacing process or game file
 - All data is processed locally for display and analysis only
 
-## Source
-
-This is a pre-built release repository. Full source: [github.com/apexracing/tracklogic](https://github.com/apexracing/tracklogic)
 
 ## ☕ Sponsor
 

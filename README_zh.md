@@ -58,9 +58,6 @@ TrackLogic 是一款免费的 iRacing 第三方遥测插件，通过 iRacing 官
 - **不修改、不注入、不干预** iRacing 进程或任何游戏文件
 - 所有数据仅用于本地显示与分析
 
-## 源码
-
-本仓库为预编译发布仓库。完整源码：[github.com/apexracing/tracklogic](https://github.com/apexracing/tracklogic)
 
 ## ☕ 赞助
 
