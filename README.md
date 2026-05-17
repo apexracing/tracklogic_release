@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/appicon.png" alt="TrackLogic" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/apexracing/tracklogic_release@main/assets/appicon.png" alt="TrackLogic" width="120">
 </p>
 
 <p align="center">
@@ -21,22 +21,22 @@
 TrackLogic 是一款免费的 iRacing 第三方遥测插件，提供实时叠加面板，帮助你在比赛中做出更好的决策，赛后进行数据驱动的复盘。
 
 <p align="center">
-  <img src="assets/standings.png" alt="实时排行榜" width="400">
+  <img src="https://cdn.jsdelivr.net/gh/apexracing/tracklogic_release@main/assets/standings.png" alt="实时排行榜" width="400">
   <br><sub>实时排行榜</sub>
 </p>
 
 <p align="center">
-  <img src="assets/trackmap.png" alt="赛道动态地图" width="400">
+  <img src="https://cdn.jsdelivr.net/gh/apexracing/tracklogic_release@main/assets/trackmap.png" alt="赛道动态地图" width="400">
   <br><sub>赛道动态地图</sub>
 </p>
 
 <p align="center">
-  <img src="assets/input.png" alt="踏板与方向盘" width="400">
+  <img src="https://cdn.jsdelivr.net/gh/apexracing/tracklogic_release@main/assets/input.png" alt="踏板与方向盘" width="400">
   <br><sub>踏板与方向盘</sub>
 </p>
 
 <p align="center">
-  <img src="assets/blindspot.png" alt="盲区监测" width="400">
+  <img src="https://cdn.jsdelivr.net/gh/apexracing/tracklogic_release@main/assets/blindspot.png" alt="盲区监测" width="400">
   <br><sub>盲区监测</sub>
 </p>
 

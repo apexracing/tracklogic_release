@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/appicon.png" alt="TrackLogic" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/apexracing/tracklogic_release@main/assets/appicon.png" alt="TrackLogic" width="120">
 </p>
 
 <p align="center">
@@ -21,22 +21,22 @@
 TrackLogic is a free third-party telemetry plugin for iRacing. It provides real-time overlays to help you make better decisions during races and conduct data-driven post-race analysis.
 
 <p align="center">
-  <img src="assets/standings.png" alt="Standings" width="400">
+  <img src="https://cdn.jsdelivr.net/gh/apexracing/tracklogic_release@main/assets/standings.png" alt="Standings" width="400">
   <br><sub>Standings</sub>
 </p>
 
 <p align="center">
-  <img src="assets/trackmap.png" alt="Track Map" width="400">
+  <img src="https://cdn.jsdelivr.net/gh/apexracing/tracklogic_release@main/assets/trackmap.png" alt="Track Map" width="400">
   <br><sub>Track Map</sub>
 </p>
 
 <p align="center">
-  <img src="assets/input.png" alt="Input Telemetry" width="400">
+  <img src="https://cdn.jsdelivr.net/gh/apexracing/tracklogic_release@main/assets/input.png" alt="Input Telemetry" width="400">
   <br><sub>Input Telemetry</sub>
 </p>
 
 <p align="center">
-  <img src="assets/blindspot.png" alt="Blind Spot" width="400">
+  <img src="https://cdn.jsdelivr.net/gh/apexracing/tracklogic_release@main/assets/blindspot.png" alt="Blind Spot" width="400">
   <br><sub>Blind Spot</sub>
 </p>
 
