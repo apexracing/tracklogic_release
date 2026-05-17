@@ -21,6 +21,11 @@
 TrackLogic is a free third-party telemetry plugin for iRacing. It provides real-time overlays to help you make better decisions during races and conduct data-driven post-race analysis.
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/apexracing/tracklogic_release@main/assets/appmain.png" alt="Main Interface" width="600">
+  <br><sub>Main Interface</sub>
+</p>
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/apexracing/tracklogic_release@main/assets/standings.png" alt="Standings" width="400">
   <br><sub>Standings</sub>
 </p>
