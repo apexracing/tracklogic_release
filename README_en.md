@@ -44,7 +44,7 @@ The built-in analysis engine automatically parses racing lines and input timing,
 
 ## Quick Start
 
-1. Download [Windows Installer](apexracing-tracklogic-installer.exe)
+1. Download [Windows Installer](https://github.com/apexracing/tracklogic_release/raw/main/apexracing-tracklogic-installer.exe)
 2. Launch iRacing and enter any session
 3. Double-click `TrackLogic.exe`
 4. On first run, follow the iRacing OAuth login flow

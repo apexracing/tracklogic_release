@@ -44,7 +44,7 @@ TrackLogic 是一款免费的 iRacing 第三方遥测插件，提供实时叠加
 
 ## 快速开始
 
-1. 下载 [Windows 安装程序](apexracing-tracklogic-installer.exe)
+1. 下载 [Windows 安装程序](https://github.com/apexracing/tracklogic_release/raw/main/apexracing-tracklogic-installer.exe)
 2. 启动 iRacing 并进入任意赛道
 3. 双击运行 `TrackLogic.exe`
 4. 首次使用将引导完成 iRacing OAuth 授权
